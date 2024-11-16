@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Krishak</h1>
 <h3 align="center">Experienced in Building Scalable Web Applications | Sophomore at VIT Vellore</h3>
-<h3 align="center">
+<h3 align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2E72E3&width=435&lines=Full+Stack+Developer+" alt="Typing SVG" /></a>
 </h3>
 <p align="center">
