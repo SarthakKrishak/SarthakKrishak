@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarthak Krishak</h1>
 <h3 align="center">Experienced in Building Scalable Web Applications | Sophomore at VIT Vellore</h3>
-
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2E72E3&width=435&lines=Full+Stack+Developer+" alt="Typing SVG" /></a>
+</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarthakkrishak&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkrishak" />
 </p>
@@ -35,9 +37,7 @@
   </a>
 </p>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2E72E3&width=435&lines=Full+Stack+Developer+" alt="Typing SVG" /></a>
-</h3>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -121,8 +121,4 @@
 
 [![Sarthak Krishak's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakkrishak&theme=radical)](https://github.com/sarthakkrishak)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakkrishak&show_icons=true&locale=en&layout=compact" alt="sarthakkrishak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakkrishak&show_icons=true&locale=en" alt="sarthakkrishak" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkrishak&" alt="sarthakkrishak" /></p>
