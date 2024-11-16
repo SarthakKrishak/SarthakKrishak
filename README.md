@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sarthak Krishak</h1>
 <h3 align="center">Experienced in Building Scalable Web Applications | Sophomore at VIT Vellore</h3>
-<h3 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2E72E3&width=435&lines=Full+Stack+Developer+" alt="Typing SVG" /></a>
-</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarthakkrishak&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkrishak" />
 </p>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2E72E3&width=435&lines=Full+Stack+Developer+" alt="Typing SVG" /></a>
+</h1>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=sarthakkrishak" alt="sarthakkrishak" />
