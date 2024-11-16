@@ -121,5 +121,8 @@
 
 [![Sarthak Krishak's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=sarthakkrishak&theme=radical)](https://github.com/sarthakkrishak)
 
-<h3 align="left">Top Repositories:</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkrishak&layout=compact&theme=radical)](https://github.com/sarthakkrishak)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthakkrishak&show_icons=true&locale=en&layout=compact" alt="sarthakkrishak" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthakkrishak&show_icons=true&locale=en" alt="sarthakkrishak" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkrishak&" alt="sarthakkrishak" /></p>
