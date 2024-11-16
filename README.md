@@ -35,6 +35,10 @@
   </a>
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com/demo/?weight=500&color=2E72E3&lines=Full+Stack+Developer+" alt="Typing animation" />
+</h3>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
