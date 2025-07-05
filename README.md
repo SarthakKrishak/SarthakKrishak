@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Sarthak Krishak</h1>
 
-
 🚀 Full Stack Developer | [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1TDfmSQxgVsbuypBmy5NmEk7O7eoM1BA1/view?usp=sharing)<br/>
-🎓 Currently pursuing my B.Tech at VIT Vellore, India<br/>
-🌐 #LearningInPublic and sharing insights on tech, CS, and dev life on [Twitter](https://x.com/krishak_sarthak)<br/>
+🎓 Pursuing B.Tech at VIT Vellore, India<br/>
+🌐 #LearningInPublic — sharing insights on tech, CS, and developer life on [Twitter](https://x.com/krishak_sarthak)<br/>
 ☁️ Exploring Cloud Computing and DevOps<br/>
 🎥 Creating content on tech, productivity, and coding on [YouTube](https://www.youtube.com/@Sarthakkrishak5)<br/>
 🌱 Always learning. Always building.<br/>
@@ -51,12 +50,12 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sarthakkrishak&theme=radical&no-frame=false&no-bg=false&margin-w=10" alt="GitHub Trophies" />
 </p>
-
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -76,6 +75,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkrishak&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
+
+# 💻 Featured YouTube Videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Fixi Ai Demo](https://ytcards.demolab.com/?id=JW26HdUrWaY&title=Fixi+Demo%3A+AI-Powered+Code+Reviewer+for+Efficient+Programming+%7C+Project+Showcase&lang=en&timestamp=1746441600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=8&duration=390)](https://youtu.be/JW26HdUrWaY?si=tNodHvEg4w6H_Qhk)
+<!-- END YOUTUBE-CARDS -->
 
 
 ## 🔗 Connect with Me
