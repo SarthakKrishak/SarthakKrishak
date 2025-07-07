@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkrishak&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkrishak" /> </p>
 
-- 🚀 Full Stack Developer | [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1TDfmSQxgVsbuypBmy5NmEk7O7eoM1BA1/view?usp=sharing)<br/>
+- 🔭 Full Stack Developer | [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1TDfmSQxgVsbuypBmy5NmEk7O7eoM1BA1/view?usp=sharing)<br/>
 
 - 🎓 Pursuing B.Tech at VIT Vellore, India<br/>
 
