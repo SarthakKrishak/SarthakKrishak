@@ -1,90 +1,77 @@
 <h1 align="center">Hi 👋, I'm Sarthak Krishak</h1>
-<h3 align="center">Full stack Developer | AWS Certified CP | Building Imaginum</h3>
+<h3 align="center">Full Stack Developer | AWS Certified CP | Building Imaginum</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakkrishak&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkrishak" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sarthakkrishak&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakkrishak" /> 
+</p>
 
 - 🔭 Full Stack Developer | [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1TDfmSQxgVsbuypBmy5NmEk7O7eoM1BA1/view?usp=sharing)<br/>
-
 - 🎓 Pursuing B.Tech at VIT Vellore, India<br/>
-
 - 🌐 #LearningInPublic — sharing insights on tech, CS, and developer life on [Twitter](https://x.com/krishak_sarthak)<br/>
-
 - ☁️ Exploring Amazon Web Services and Kubernetes<br/>
-
 - 🎥 Creating content on tech, productivity, and coding on [YouTube](https://www.youtube.com/@Sarthakkrishak5)<br/>
-
 - 🌱 Always learning. Always building.<br/>
 
 
-## Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthakkrishak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthakkrishak/" height="30" width="40" /></a>
-<a href="https://x.com/krishak_sarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sarthak_krishak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sarthak_krishak/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@sarthakkrishak5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@sarthakkrishak5" height="30" width="40" /></a>
-</p>
+## 💼 Open To
+- Full-time **SDE / Software Engineer / Backend / Cloud Engineer** roles  
+- Internships in **Full Stack Development & Cloud Computing**  
+- Collaborations on **AI/ML & Open Source Projects**  
 
 
-## Tech Stack
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=swagger&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Tools & Productivity
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+## 🛠️ Featured Projects  
+-  [**Campus Mart**](https://campus-mart-five.vercel.app/) – Full-stack marketplace platform with secure backend APIs.  
+-  [**Fixi AI**](https://fixi-ai.vercel.app/) – AI-powered code reviewer for efficient debugging and best practices (React + Node + Gemini API).  
+-  [**ChatHub**](https://chathub-csso.onrender.com/) – Real-time global Anonymous chat app with Socket.IO, JWT auth, and MongoDB.
+-  [**EV Battery SOH & SOC Tracker**](https://github.com/SarthakKrishak/EV_APP) – AWS-based system for monitoring battery health and charge anomalies.  
+-  [**Imaginum**](https://imaginumorg.vercel.app/) – AI-powered productivity and creativity tool.  
+-  [**Markit**](https://github.com/SarthakKrishak/Markit_ReactNative_App) – A sleek React Native to-do app with intuitive task management and productivity features
 
 
+## 🚀 Tech Stack  
 
-## GitHub Trophies
+🌐 Frontend
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" /> <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer&logoColor=white" height="30"/> </p>
+⚙️ Backend & APIs
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express" /> <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socket.io&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/JWT-black?logo=jsonwebtokens" height="30"/> <img src="https://skillicons.dev/icons?i=python,django,fastapi" /> <img src="https://img.shields.io/badge/AWS%20API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=white" height="30"/></p>
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,sqlite" /> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="30"/> </p>
+☁️ Cloud & DevOps
+<p align="left"> <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,docker,kubernetes,githubactions,git,bash,bun" />  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?logo=amazons3&logoColor=white" height="30"/> </p>
+🛠️ Tools & Productivity
+<p align="left"> <img src="https://skillicons.dev/icons?i=vscode,figma,postman,notion,linux" /><img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" height="30"/> </p>
+🤖 AI & Emerging Tech
+<p align="left"> <img src="https://skillicons.dev/icons?i=python" /> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="30"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" height="30"/> </p>
+
+
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarthakkrishak&theme=radical&no-frame=false&no-bg=false&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sarthakkrishak&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkrishak&theme=tokyonight" alt="streak" height="180"/>
 </p>
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## 🎥 Latest YouTube Videos  
 
-# Featured YouTube Videos
 <p align="left">
   <a href="https://youtu.be/JW26HdUrWaY?si=tNodHvEg4w6H_Qhk">
     <img src="https://ytcards.demolab.com/?id=JW26HdUrWaY&title=Fixi+Ai+Demo%3A+AI-Powered+Code+Reviewer+for+Efficient+Programming+%7C+Project+Showcase&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=8&duration=390" alt="Fixi Ai Demo"/>
   </a>
   <a href="https://youtu.be/IZhaUmz8pB4?si=ITHfFwH8rOFMc2t5">
-    <img src="https://ytcards.demolab.com/?id=IZhaUmz8pB4&title=Fixi+Demo%3A+AI-Powered+Code+Reviewer+for+Efficient+Programming+%7C+Project+Showcase&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=8" alt="ChatHub Demo"/>
+    <img src="https://ytcards.demolab.com/?id=IZhaUmz8pB4&title=ChatHub+Demo%3A+Real-time+Chat+Application+with+Socket.IO+%26+MongoDB&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=8" alt="ChatHub Demo"/>
   </a>
 </p>
-<!-- END YOUTUBE-CARDS -->
+
+## 🌐 Connect With Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sarthakkrishak/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="https://x.com/krishak_sarthak"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
+  <a href="https://www.instagram.com/sarthak_krishak/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://www.youtube.com/@Sarthakkrishak5"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" height="40"/></a>
+</p>
 
