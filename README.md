@@ -77,19 +77,6 @@
 </div>
 
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakkrishak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Sarthak's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthakkrishak&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakkrishak&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
 # Featured YouTube Videos
 <p align="left">
   <a href="https://youtu.be/JW26HdUrWaY?si=tNodHvEg4w6H_Qhk">
