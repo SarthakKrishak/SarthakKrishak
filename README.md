@@ -91,6 +91,13 @@
 </p>
 
 # Featured YouTube Videos
-[![Fixi Ai Demo](https://ytcards.demolab.com/?id=JW26HdUrWaY&title=Fixi+Demo%3A+AI-Powered+Code+Reviewer+for+Efficient+Programming+%7C+Project+Showcase&lang=en&timestamp=1746441600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=8&duration=390)](https://youtu.be/JW26HdUrWaY?si=tNodHvEg4w6H_Qhk)
+<p align="left">
+  <a href="https://youtu.be/JW26HdUrWaY?si=tNodHvEg4w6H_Qhk">
+    <img src="https://ytcards.demolab.com/?id=JW26HdUrWaY&title=Fixi+Ai+Demo%3A+AI-Powered+Code+Reviewer+for+Efficient+Programming+%7C+Project+Showcase&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=8&duration=390" alt="Fixi Ai Demo"/>
+  </a>
+  <a href="https://youtu.be/IZhaUmz8pB4?si=ITHfFwH8rOFMc2t5">
+    <img src="https://ytcards.demolab.com/?id=IZhaUmz8pB4&title=Fixi+Demo%3A+AI-Powered+Code+Reviewer+for+Efficient+Programming+%7C+Project+Showcase&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=8" alt="ChatHub Demo"/>
+  </a>
+</p>
 <!-- END YOUTUBE-CARDS -->
 
