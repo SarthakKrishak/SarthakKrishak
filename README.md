@@ -24,7 +24,7 @@
 -  [**Fixi AI**](https://fixi-ai.vercel.app/) – AI-powered code reviewer for efficient debugging and best practices (React + Node + Gemini API).  
 -  [**ChatHub**](https://chathub-csso.onrender.com/) – Real-time global Anonymous chat app with Socket.IO, JWT auth, and MongoDB.
 -  [**EV Battery SOH & SOC Tracker**](https://github.com/SarthakKrishak/EV_APP) – AWS-based system for monitoring battery health and charge anomalies.  
--  [**Imaginum**](https://imaginumorg.vercel.app/) – AI-powered productivity and creativity tool.  
+-  [**Imaginum**](https://imaginumorg.vercel.app/) - Startup
 -  [**Markit**](https://github.com/SarthakKrishak/Markit_ReactNative_App) – A sleek React Native to-do app with intuitive task management and productivity features
 
 
