@@ -110,7 +110,7 @@ I enjoy working across the stack from system architecture to polished user exper
 <p align="left">
   <a href="https://www.linkedin.com/in/sarthakkrishak/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://x.com/krishak_sarthak"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
-  <a href="https://www.instagram.com/sarthak_krishak/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+  <a href="https://www.instagram.com/sarthak_krshk/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
   <a href="mailto:sarthakkrishak1234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 
