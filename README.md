@@ -98,11 +98,11 @@ I enjoy working across the stack from system architecture to polished user exper
 ## 🎥 Latest YouTube Videos
 
 <p align="left">
+    <a href="https://youtu.be/IZhaUmz8pB4">
+    <img src="https://ytcards.demolab.com/?id=IZhaUmz8pB4&title=ChatHub+Demo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=8" />
+  </a>
   <a href="https://youtu.be/JW26HdUrWaY">
     <img src="https://ytcards.demolab.com/?id=JW26HdUrWaY&title=Fixi+AI+Demo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=8" />
-  </a>
-  <a href="https://youtu.be/IZhaUmz8pB4">
-    <img src="https://ytcards.demolab.com/?id=IZhaUmz8pB4&title=ChatHub+Demo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=8" />
   </a>
 </p>
 
@@ -111,7 +111,7 @@ I enjoy working across the stack from system architecture to polished user exper
   <a href="https://www.linkedin.com/in/sarthakkrishak/"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
   <a href="https://x.com/krishak_sarthak"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
   <a href="https://www.instagram.com/sarthak_krishak/"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="mailto:sarthakkrishak1234@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
 </p>
 
 <div align="center">
