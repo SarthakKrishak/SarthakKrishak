@@ -33,7 +33,7 @@ I enjoy working across the stack from system architecture to polished user exper
 
 
 ## 🛠️ Featured Projects
-- **[Campus Mart](https://campus-mart-frontend-kz7j.onrender.com/)** – Full-stack campus marketplace platform with secure APIs and scalable backend architecture 
+- **[Unideals](https://unideals.in/)** – Full-stack campus marketplace platform with secure APIs and scalable backend architecture 
 - **[Fixi AI](https://fixi-ai.vercel.app/)** – AI-powered code review and debugging assistant using React, Node.js, and Gemini API  
 - **[ChatHub](https://chathub-csso.onrender.com/)** – Real-time anonymous chat platform with Socket.IO, JWT authentication, and MongoDB  
 - **[Voltx App](https://github.com/SarthakKrishak/Voltx-app)** – AWS serverless EV battery health monitoring and anomaly detection app built with React Native (Expo).   
