@@ -11,7 +11,7 @@
 <div align="center">
 
 # Hi 👋 I'm Sarthak Krishak  
-### Software Engineer Intern • Startup Co-Founder • Cloud & AI Systems Builder
+### Software Engineer Intern • Ex Co-Founder • Cloud & AI Systems Builder
 
 </div>
 <p align="left">
@@ -23,13 +23,13 @@
 
 ## ⚡ About Me
 
-I’m a **Software Engineer and Startup Co-Founder** focused on designing and building **scalable, cloud-native, and AI-driven systems**.  
+I’m a **Software Engineer and Ex Co-Founder** focused on designing and building **scalable, cloud-native, and AI-driven systems**.  
 I enjoy working across the stack from system architecture to polished user experiences while also building products with real-world impact.
 
-- 🔭 **Currently:** Software Engineering Intern **@Visteon** & Co-Founder **@[Imaginum](https://imaginumorg.vercel.app/)**
+- 🔭 **Currently:** Software Engineering **@Visteon** & Co-Founder **@[Imaginum](https://imaginumorg.vercel.app/)**
 - 🎓 **Education:** B.Tech, VIT Vellore
 - ☁️ **Expertise:** Cloud Architecture (AWS), Full-Stack Development, System Design
-- 🌱 **Learning:** Kubernetes, distributed systems, and autonomous AI agents
+- 🌱 **Learning:** Kubernetes, distributed systems and autonomous AI agents
 
 
 ## 🛠️ Featured Projects
