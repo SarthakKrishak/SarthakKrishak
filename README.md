@@ -11,7 +11,7 @@
 <div align="center">
 
 # Hi 👋 I'm Sarthak Krishak  
-### Software Engineer Intern • Startup Co-Founder • Cloud & AI Systems Builder
+### Software Engineer • Startup Co-Founder • Cloud & AI Systems Builder
 
 </div>
 <p align="left">
